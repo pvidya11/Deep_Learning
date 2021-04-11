@@ -1,2 +1,6 @@
 # Deep_Learning
-Deep Learning study and Project Practice Material
+
+This Repository Contain Deep Learning:- 
+  1)  study Material, 
+  2)  Practice and 
+  3)  Project Material
